@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generikus", "Generikus\Generikus.csproj", "{FD7897A3-C3AE-4C5B-9004-1677F8867AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generikus7", "Generikus7\Generikus7.csproj", "{24A870F4-0AF5-4A1C-9846-8AB18BDF69A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generikus8", "Generikus8\Generikus8.csproj", "{074BB67D-B700-40C8-9CCA-90BDB9A9ED95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7897A3-C3AE-4C5B-9004-1677F8867AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7897A3-C3AE-4C5B-9004-1677F8867AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7897A3-C3AE-4C5B-9004-1677F8867AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7897A3-C3AE-4C5B-9004-1677F8867AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A870F4-0AF5-4A1C-9846-8AB18BDF69A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A870F4-0AF5-4A1C-9846-8AB18BDF69A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A870F4-0AF5-4A1C-9846-8AB18BDF69A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A870F4-0AF5-4A1C-9846-8AB18BDF69A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074BB67D-B700-40C8-9CCA-90BDB9A9ED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074BB67D-B700-40C8-9CCA-90BDB9A9ED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074BB67D-B700-40C8-9CCA-90BDB9A9ED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074BB67D-B700-40C8-9CCA-90BDB9A9ED95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9736E38-BA6B-44BB-AD15-342B549D6CD0}
+	EndGlobalSection
+EndGlobal
